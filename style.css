@@ -1,0 +1,54 @@
+.carousel-padding{
+    padding: 20px 40px;
+}
+.carousel-bg{
+    background-color: #fceae8;
+}
+.catagories img{
+    width: 100px;
+}
+.panda-rounded{
+    border-radius: 10px;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    color: white;
+
+}
+.imageslider-margin{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.imageslider-text{
+    height: 200px;
+}
+.panda-bg-orange{
+    background-color: orange;
+}
+.panda-bg-orchid{
+    background-color: orchid;
+}
+.panda-bg-blue{
+    background-color: blue;
+}
+.catagories-margin{
+    margin-bottom: 100px;
+}
+.card-shadow{
+    box-shadow: 2px 5px 40px 1px rgb(241, 234, 234);
+}
+.shoes-margin{
+    margin-bottom: 100px;
+}
+.backpack-margin{
+    margin-bottom: 100px;
+}
+.subscribe-bg{
+    background-color: #fceae8;
+}
+.subscribe-p-color{
+    color: gray;
+}
